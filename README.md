@@ -22,11 +22,11 @@ O *source* do LaTeX pode ser encontrado no [link do overleaf](https://www.overle
 
 A versão final do trabalho em PDF está na [biblioteca digital da FGV](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/24728/PEDRO%20DELFINO.pdf?sequence=1&isAllowed=y).
 
-Os metadados da bibliteconomia podem ser encontrados [aqui](http://bibliotecadigital.fgv.br/dspace/handle/10438/24728).
+Os metadados da biblioteconomia podem ser encontrados [aqui](http://bibliotecadigital.fgv.br/dspace/handle/10438/24728).
 
 ### Avisos
 
-Foi preciso fazer algumas levas alterações no *default* do AbntTex.  Por default, o padrão de citação é numérico. Assim, no texto, temos algo como:
+Foi preciso fazer algumas leves alterações no *default* do AbntTex.  Por default, o padrão de citação é numérico. Assim, no texto, temos algo como:
 
 ```
 	"Como apontado em [2] , bla bla bla [...]"
@@ -52,7 +52,7 @@ Isso pode ser alterado.
 
 Assim como fiz na seção de agradecimentos do meu TCC, aproveito para parabenizar as pessoas responsáveis pelo pactote ABNTex (Absurdas Normas para Tex). Aliás, o trocadilho no nome é muito bom.
 
-Em especial, @laurocesar. Por sinal, Lauro também tem contribuições para o LexML, outro software que utilizei na pesquisa do meu TCC. Esse repositório é só mais um ponteiro no palheiro da *Web* para divulgar o bom trabalho desse pessoal.
+Em especial, [@laurocesar](https://github.com/laurocesar). Por sinal, Lauro também tem contribuições para o LexML, outro software que utilizei na pesquisa do meu TCC. Este repositório é só mais um ponteiro no palheiro da *Web* para ajudar na divulgação do bom trabalho desse pessoal.
 
 
 
